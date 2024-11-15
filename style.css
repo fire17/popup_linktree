@@ -160,7 +160,7 @@ body {
     animation: animate 3s linear var(--delay) infinite reverse;
     -webkit-background-clip: text;
     background-clip: text;
-    -webkit-text-fill-color: rgba(255, 255, 255, 1);
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
 }
 
 
