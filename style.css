@@ -33,6 +33,17 @@ body {
     border-radius: 50%;
     -webkit-tap-highlight-color: transparent;
 }
+#profilePictureLarge, #profilePictureLarge img {
+    position: relative;
+    width: 192px;
+    /* height: 192px; */
+    display: block;
+    margin: 20px auto 20px;
+    border-radius: 10%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+
 
 #userName {
     color: var(--accentColor);
